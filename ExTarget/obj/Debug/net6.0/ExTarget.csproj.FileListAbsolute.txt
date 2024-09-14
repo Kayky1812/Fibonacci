@@ -1,0 +1,15 @@
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\bin\Debug\net6.0\ExTarget.exe
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\bin\Debug\net6.0\ExTarget.deps.json
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\bin\Debug\net6.0\ExTarget.runtimeconfig.json
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\bin\Debug\net6.0\ExTarget.dll
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\bin\Debug\net6.0\ExTarget.pdb
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.csproj.AssemblyReference.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.AssemblyInfoInputs.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.AssemblyInfo.cs
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.csproj.CoreCompileInputs.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.dll
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\refint\ExTarget.dll
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.pdb
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ExTarget.genruntimeconfig.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\ExTarget\ExTarget\obj\Debug\net6.0\ref\ExTarget.dll
